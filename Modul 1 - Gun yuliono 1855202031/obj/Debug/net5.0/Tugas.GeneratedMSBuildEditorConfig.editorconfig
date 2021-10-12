@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Tugas
+build_property.ProjectDir = e:\Tugas Semester 7\Pemrograman .Net (GREZIO ARIFIAN, M.Kom)\pertemuan 1\Tugas\dotnet-pemrograman\Modul 1 - Gun yuliono 1855202031\

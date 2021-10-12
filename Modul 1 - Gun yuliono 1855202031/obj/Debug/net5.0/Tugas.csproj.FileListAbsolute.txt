@@ -1,0 +1,32 @@
+E:\Tugas Semester 7\Pemrograman .Net (GREZIO ARIFIAN, M.Kom)\pertemuan 1\Tugas\bin\Debug\net5.0\Tugas.exe
+E:\Tugas Semester 7\Pemrograman .Net (GREZIO ARIFIAN, M.Kom)\pertemuan 1\Tugas\bin\Debug\net5.0\Tugas.deps.json
+E:\Tugas Semester 7\Pemrograman .Net (GREZIO ARIFIAN, M.Kom)\pertemuan 1\Tugas\bin\Debug\net5.0\Tugas.runtimeconfig.json
+E:\Tugas Semester 7\Pemrograman .Net (GREZIO ARIFIAN, M.Kom)\pertemuan 1\Tugas\bin\Debug\net5.0\Tugas.runtimeconfig.dev.json
+E:\Tugas Semester 7\Pemrograman .Net (GREZIO ARIFIAN, M.Kom)\pertemuan 1\Tugas\bin\Debug\net5.0\Tugas.dll
+E:\Tugas Semester 7\Pemrograman .Net (GREZIO ARIFIAN, M.Kom)\pertemuan 1\Tugas\bin\Debug\net5.0\ref\Tugas.dll
+E:\Tugas Semester 7\Pemrograman .Net (GREZIO ARIFIAN, M.Kom)\pertemuan 1\Tugas\bin\Debug\net5.0\Tugas.pdb
+E:\Tugas Semester 7\Pemrograman .Net (GREZIO ARIFIAN, M.Kom)\pertemuan 1\Tugas\obj\Debug\net5.0\Tugas.csproj.AssemblyReference.cache
+E:\Tugas Semester 7\Pemrograman .Net (GREZIO ARIFIAN, M.Kom)\pertemuan 1\Tugas\obj\Debug\net5.0\Tugas.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tugas Semester 7\Pemrograman .Net (GREZIO ARIFIAN, M.Kom)\pertemuan 1\Tugas\obj\Debug\net5.0\Tugas.AssemblyInfoInputs.cache
+E:\Tugas Semester 7\Pemrograman .Net (GREZIO ARIFIAN, M.Kom)\pertemuan 1\Tugas\obj\Debug\net5.0\Tugas.AssemblyInfo.cs
+E:\Tugas Semester 7\Pemrograman .Net (GREZIO ARIFIAN, M.Kom)\pertemuan 1\Tugas\obj\Debug\net5.0\Tugas.csproj.CoreCompileInputs.cache
+E:\Tugas Semester 7\Pemrograman .Net (GREZIO ARIFIAN, M.Kom)\pertemuan 1\Tugas\obj\Debug\net5.0\Tugas.dll
+E:\Tugas Semester 7\Pemrograman .Net (GREZIO ARIFIAN, M.Kom)\pertemuan 1\Tugas\obj\Debug\net5.0\ref\Tugas.dll
+E:\Tugas Semester 7\Pemrograman .Net (GREZIO ARIFIAN, M.Kom)\pertemuan 1\Tugas\obj\Debug\net5.0\Tugas.pdb
+E:\Tugas Semester 7\Pemrograman .Net (GREZIO ARIFIAN, M.Kom)\pertemuan 1\Tugas\obj\Debug\net5.0\Tugas.genruntimeconfig.cache
+E:\Tugas Semester 7\Pemrograman .Net (GREZIO ARIFIAN, M.Kom)\pertemuan 1\Modul 1 - Gun yuliono 1855202031\bin\Debug\net5.0\Tugas.exe
+E:\Tugas Semester 7\Pemrograman .Net (GREZIO ARIFIAN, M.Kom)\pertemuan 1\Modul 1 - Gun yuliono 1855202031\bin\Debug\net5.0\Tugas.deps.json
+E:\Tugas Semester 7\Pemrograman .Net (GREZIO ARIFIAN, M.Kom)\pertemuan 1\Modul 1 - Gun yuliono 1855202031\bin\Debug\net5.0\Tugas.runtimeconfig.json
+E:\Tugas Semester 7\Pemrograman .Net (GREZIO ARIFIAN, M.Kom)\pertemuan 1\Modul 1 - Gun yuliono 1855202031\bin\Debug\net5.0\Tugas.runtimeconfig.dev.json
+E:\Tugas Semester 7\Pemrograman .Net (GREZIO ARIFIAN, M.Kom)\pertemuan 1\Modul 1 - Gun yuliono 1855202031\bin\Debug\net5.0\Tugas.dll
+E:\Tugas Semester 7\Pemrograman .Net (GREZIO ARIFIAN, M.Kom)\pertemuan 1\Modul 1 - Gun yuliono 1855202031\bin\Debug\net5.0\ref\Tugas.dll
+E:\Tugas Semester 7\Pemrograman .Net (GREZIO ARIFIAN, M.Kom)\pertemuan 1\Modul 1 - Gun yuliono 1855202031\bin\Debug\net5.0\Tugas.pdb
+E:\Tugas Semester 7\Pemrograman .Net (GREZIO ARIFIAN, M.Kom)\pertemuan 1\Modul 1 - Gun yuliono 1855202031\obj\Debug\net5.0\Tugas.csproj.AssemblyReference.cache
+E:\Tugas Semester 7\Pemrograman .Net (GREZIO ARIFIAN, M.Kom)\pertemuan 1\Modul 1 - Gun yuliono 1855202031\obj\Debug\net5.0\Tugas.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tugas Semester 7\Pemrograman .Net (GREZIO ARIFIAN, M.Kom)\pertemuan 1\Modul 1 - Gun yuliono 1855202031\obj\Debug\net5.0\Tugas.AssemblyInfoInputs.cache
+E:\Tugas Semester 7\Pemrograman .Net (GREZIO ARIFIAN, M.Kom)\pertemuan 1\Modul 1 - Gun yuliono 1855202031\obj\Debug\net5.0\Tugas.AssemblyInfo.cs
+E:\Tugas Semester 7\Pemrograman .Net (GREZIO ARIFIAN, M.Kom)\pertemuan 1\Modul 1 - Gun yuliono 1855202031\obj\Debug\net5.0\Tugas.csproj.CoreCompileInputs.cache
+E:\Tugas Semester 7\Pemrograman .Net (GREZIO ARIFIAN, M.Kom)\pertemuan 1\Modul 1 - Gun yuliono 1855202031\obj\Debug\net5.0\Tugas.dll
+E:\Tugas Semester 7\Pemrograman .Net (GREZIO ARIFIAN, M.Kom)\pertemuan 1\Modul 1 - Gun yuliono 1855202031\obj\Debug\net5.0\ref\Tugas.dll
+E:\Tugas Semester 7\Pemrograman .Net (GREZIO ARIFIAN, M.Kom)\pertemuan 1\Modul 1 - Gun yuliono 1855202031\obj\Debug\net5.0\Tugas.pdb
+E:\Tugas Semester 7\Pemrograman .Net (GREZIO ARIFIAN, M.Kom)\pertemuan 1\Modul 1 - Gun yuliono 1855202031\obj\Debug\net5.0\Tugas.genruntimeconfig.cache
